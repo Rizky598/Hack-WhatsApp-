@@ -15,7 +15,7 @@ grup komunitas hacker
 =================================
 masukkan aja script yang di bawah untuk script termux😊
 
-#Perintah Di Termux😊
+# Perintah Di Termux😊
 ```
 pkg update && pkg upgrade -y
 pkg install git
