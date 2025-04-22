@@ -109,7 +109,7 @@ def main():
     else:
         os.sys.exit()
 
-
+print '\x1b[1;97m\n\xe2\x9e\xa4\x1b[1;91m Rizky.088\n'
 if __name__ == '__main__':
     iz = raw_input('\n\n\n\x1b[1;97m\xe2\x9e\xa4 \x1b[1;92mIzinkan Akses SDCARD (y/n) : \x1b[1;96m')
     siap = ['y', 'Y', 'Yes', 'yes', 'ya', 'Ya', 'ok', 'Ok']
@@ -122,4 +122,4 @@ if __name__ == '__main__':
         print '\x1b[1;97m\n\xe2\x9e\xa4\x1b[1;91m KELUAR!\n'
         os.sys.exit()
     os.system('clear')
-    main()⏎
+    main()
