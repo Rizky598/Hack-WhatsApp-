@@ -1,4 +1,4 @@
-1:hack WhatsApp menggunakan nomor HP 🎯😈
+1:hack WhatsApp menggunakan nomor HP 😈
 2:tools ini memerlukan akses ruangan untuk     3:menyimpan nomor kontak si target dan chat
 
 <div align="center">
