@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>
-    <img src="p1.jpg" width="250">
+    <img src="IMG-20250422-WA0143.jpg" width="250">
     </p>
   
 Whatsapp Group
