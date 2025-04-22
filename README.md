@@ -18,7 +18,7 @@ masukkan aja script yang di bawah untuk script termux😊
 # Command In Termux😊
 ```
 pkg update && pkg upgrade -y
-pkg install git<br>
+pkg install git
 pkg install python2
 pip2 install mechanize
 git clone https://github.com/Rizky598/Hack-WhatsApp-<br>
